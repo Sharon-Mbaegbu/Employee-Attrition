@@ -63,4 +63,4 @@ This project involves an exploratory data analysis (EDA) of the physicochemical 
 - Exploratory_Data_Analysis.pdf: Detailed report of the analysis.
 
 ## References
-[Wine Quality Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset)
+- Dataset retrieved from https://archive.ics.uci.edu/dataset/186/wine+quality
