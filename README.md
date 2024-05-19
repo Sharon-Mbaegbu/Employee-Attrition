@@ -45,7 +45,7 @@ This project involves an exploratory data analysis (EDA) of the physicochemical 
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/Sharon-Mbaegbu/Employee-Attrition
+   git clone https://github.com/Sharon-Mbaegbu/Wine-Quality-Analysis
    ```
 2. **Navigate to the Project Directory:**
    cd [your-project-directory]
